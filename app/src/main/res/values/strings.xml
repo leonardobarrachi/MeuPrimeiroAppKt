@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppKt</string>
+    <string name="titulo_cadastro">Cadastre-se</string>
+    <string name="titulo_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha </string>
+    <string name="texto_botao_cadastrar">Cadastrar</string>
+    <string name="texto_botao_entrar">Acessar</string>
+    <string name="texto_acesso_cadastro">Cadastre-se</string>
+    <string name="texto_botao_deslogar">Sair</string>
+
+
+</resources>
