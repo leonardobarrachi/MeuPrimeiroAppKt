@@ -6,8 +6,13 @@
     <string name="hint_senha">Senha </string>
     <string name="texto_botao_cadastrar">Cadastrar</string>
     <string name="texto_botao_entrar">Acessar</string>
-    <string name="texto_acesso_cadastro">Cadastre-se</string>
+    <string name="texto_acesso_cadastro">Criar conta</string>
     <string name="texto_botao_deslogar">Sair</string>
+    <string name="texto_botao_transparencia">Transparência</string>
+    <string name="texto_botao_editais">Editais</string>
+    <string name="texto_botao_eventos">Eventos</string>
+    <string name="texto_botao_turismo">Turismo</string>
+    <string name="texto_botao_contatosUteis">Contatos Úteis</string>
 
 
 </resources>
