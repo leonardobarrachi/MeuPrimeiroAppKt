@@ -20,6 +20,7 @@ class Principal : AppCompatActivity() {
             val voltaTelaLogin = Intent(this, Login::class.java) // após sair volta para tela login
             startActivity(voltaTelaLogin) // ir para tela login
             finish() // fim
+            
         }
     }
 }

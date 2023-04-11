@@ -10,9 +10,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 <LinearLayout
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -66,13 +63,13 @@
         android:id="@+id/bt_entrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/texto_botao_entrar"
-        android:textSize="20sp"
-        android:textColor="@color/white"
-        android:textStyle="bold"
-        android:padding="10dp"
+        android:layout_margin="20dp"
         android:background="@color/dark_blue"
-        android:layout_margin="20dp" />
+        android:padding="10dp"
+        android:text="@string/texto_botao_entrar"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/text_tela_cadastro"
