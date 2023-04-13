@@ -8,11 +8,13 @@
     <string name="texto_botao_entrar">Acessar</string>
     <string name="texto_acesso_cadastro">Criar conta</string>
     <string name="texto_botao_deslogar">Sair</string>
-    <string name="texto_botao_transparencia">Transparência</string>
+    <string name="texto_botao_transparencia">Orçamento</string>
     <string name="texto_botao_editais">Editais</string>
     <string name="texto_botao_eventos">Eventos</string>
     <string name="texto_botao_turismo">Turismo</string>
-    <string name="texto_botao_contatosUteis">Contatos Úteis</string>
+    <string name="texto_botao_contatosUteis">Contatos</string>
+    <string name="titulo_tela_editais">Editais</string>
+    <string name="titulo_tela_principal">INFORMAÇÕES GERAIS</string>
 
 
 </resources>
