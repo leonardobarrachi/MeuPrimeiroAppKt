@@ -4,21 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
     android:orientation="vertical"
-    android:gravity="center|top"
+    android:background="@color/white"
     android:backgroundTint="@color/light_gray"
-    tools:context=".view.editais.TelaEditais">
+    android:gravity="center|top"
+    tools:context=".view.turismo.TelaTurismo">
+
 
     <TextView
-        android:id="@+id/editais"
+        android:id="@+id/turismo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/titulo_tela_editais"
+        android:text="@string/titulo_tela_turismo"
         android:layout_marginTop="18dp"
         android:textSize="32sp"
         android:textColor="@color/black"
         android:textStyle="bold" />
 
 
-    </LinearLayout>
+
+</LinearLayout>

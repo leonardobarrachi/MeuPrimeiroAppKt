@@ -5,7 +5,9 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.meuprimeiroappkt.databinding.ActivityPrincipalBinding
 import com.example.meuprimeiroappkt.view.editais.TelaEditais
+import com.example.meuprimeiroappkt.view.eventos.TelaEventos
 import com.example.meuprimeiroappkt.view.login.Login
+import com.example.meuprimeiroappkt.view.turismo.TelaTurismo
 import com.google.firebase.auth.FirebaseAuth
 
 class Principal : AppCompatActivity() {
@@ -29,6 +31,18 @@ class Principal : AppCompatActivity() {
             val irEditais = Intent(this,TelaEditais::class.java)
             startActivity(irEditais)
         }
+
+        binding.button4.setOnClickListener {
+            val irEventos = Intent(this,TelaEventos::class.java)
+            startActivity(irEventos)
+        }
+
+        binding.button5.setOnClickListener {
+            val irTurismo = Intent(this,TelaTurismo::class.java)
+            startActivity(irTurismo)
+        }
+
+
 
 
     }

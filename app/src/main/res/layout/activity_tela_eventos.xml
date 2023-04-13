@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,17 +9,16 @@
     android:orientation="vertical"
     android:gravity="center|top"
     android:backgroundTint="@color/light_gray"
-    tools:context=".view.editais.TelaEditais">
+    tools:context=".view.eventos.TelaEventos">
 
     <TextView
-        android:id="@+id/editais"
+        android:id="@+id/eventos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/titulo_tela_editais"
-        android:layout_marginTop="18dp"
+        android:text="@string/titulo_tela_eventos"
         android:textSize="32sp"
+        android:layout_marginTop="18dp"
         android:textColor="@color/black"
         android:textStyle="bold" />
 
-
-    </LinearLayout>
+</LinearLayout>
