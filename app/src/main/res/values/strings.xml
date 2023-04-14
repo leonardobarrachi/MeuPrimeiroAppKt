@@ -17,6 +17,8 @@
     <string name="titulo_tela_principal">INFORMAÇÕES GERAIS</string>
     <string name="titulo_tela_eventos">Eventos</string>
     <string name="titulo_tela_turismo">Turismo</string>
+    <string name="titulo_tela_orcamento">Orçamento</string>
+    <string name="titulo_tela_contatos">Contatos</string>
 
 
 </resources>

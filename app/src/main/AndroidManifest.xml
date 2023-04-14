@@ -14,6 +14,12 @@
         android:theme="@style/Theme.MeuPrimeiroAppKt"
         tools:targetApi="31">
         <activity
+            android:name=".view.contatos.TelaContatos"
+            android:exported="false" />
+        <activity
+            android:name=".view.orcamento.TelaOrcamento"
+            android:exported="false" />
+        <activity
             android:name=".view.turismo.TelaTurismo"
             android:exported="false" />
         <activity
