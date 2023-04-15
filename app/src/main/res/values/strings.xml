@@ -19,6 +19,50 @@
     <string name="titulo_tela_turismo">Turismo</string>
     <string name="titulo_tela_orcamento">Orçamento</string>
     <string name="titulo_tela_contatos">Contatos</string>
+    <string name="texto_edital_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel lacus tempor, hendrerit nunc eu, convallis nisi.
+   Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus.</string>
 
+    <string name="texto_edital_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel lacus tempor, hendrerit nunc eu, convallis nisi.
+   Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus.</string>
+
+    <string name="texto_edital_2">  Pellentesque nec mi et arcu iaculis pellentesque et vitae nulla. Nulla vel lacus tempor, hendrerit nunc eu, convallis nisi.
+   Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus.</string>
+
+    <string name="texto_edital_3"> Nulla vel lacus tempor, hendrerit nunc eu, convallis nisi. Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis.
+   Maecenas maximus sem sed sem imperdiet porta. Praesent erat velit, lacinia ac maximus a, placerat lobortis justo.
+   Vestibulum posuere pulvinar lacus nec condimentum. Aliquam faucibus sem in lectus pulvinar eleifend sed et massa.
+   Aliquam ut volutpat ante, quis consectetur leo. Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed.
+   Sed pretium a nibh eget luctus. </string>
+
+    <string name="texto_edital_4"> PeCurabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus.  </string>
+
+    <string name="texto_edital_5">  Lorem ipsum dolor sit amet, convallis nisi. Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis.
+   Maecenas maximus sem sed sem imperdiet porta. Praesent erat velit, lacinia ac maximus a, placerat lobortis justo.
+   Vestibulum posuere pulvinar lacus nec condimentum. Aliquam faucibus sem in lectus pulvinar eleifend sed et massa.
+   Aliquam ut volutpat ante, quis consectetur leo. Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed.
+   Sed pretium a nibh eget luctus. </string>
+
+    <string name="texto_edital_6"> Pellentesque nec mi et arcu iaculis pellentesque et vitae nulla. Nulla vel lacus tempor, hendrerit nunc eu, convallis nisi.
+   Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus.</string>
+
+    <string name="texto_edital_7"> Curabitur vel arcu hendrerit, finibus mauris quis, mollis turpis. Maecenas maximus sem sed sem imperdiet porta.
+   Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
+   Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
+   Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus. </string>
 
 </resources>
