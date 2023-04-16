@@ -64,5 +64,8 @@
    Praesent erat velit, lacinia ac maximus a, placerat lobortis justo. Vestibulum posuere pulvinar lacus nec condimentum.
    Aliquam faucibus sem in lectus pulvinar eleifend sed et massa. Aliquam ut volutpat ante, quis consectetur leo.
    Mauris laoreet faucibus tortor, venenatis vulputate erat aliquam sed. Sed pretium a nibh eget luctus. </string>
+    <string name="texto_eventos_1">Festival de artesanatos</string>
+    <string name="texto_eventos_2">Encontro Municipal</string>
+    <string name="texto_eventos_3">Baile da Princesa</string>
 
 </resources>
