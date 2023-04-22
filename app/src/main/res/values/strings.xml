@@ -67,5 +67,9 @@
     <string name="texto_eventos_1">Festival de artesanatos</string>
     <string name="texto_eventos_2">Encontro Municipal</string>
     <string name="texto_eventos_3">Baile da Princesa</string>
+    <string name="texto_turismo_1">Columbia Goland</string>
+    <string name="texto_turismo_2">Boca Chica</string>
+    <string name="texto_turismo_3">Praia Limpa</string>
+    <string name="texto_turismo_4">Escalada Solar</string>
 
 </resources>

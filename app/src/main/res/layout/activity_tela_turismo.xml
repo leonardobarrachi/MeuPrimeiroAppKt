@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.core.widget.NestedScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -25,6 +26,85 @@
         android:textSize="32sp"
         android:textColor="@color/black"
         android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue"
+        android:text="@string/texto_turismo_1" />
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:contentDescription="@string/texto_turismo_1"
+        app:srcCompat="@drawable/hummer7" />
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue"
+        android:text="@string/texto_turismo_2" />
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:contentDescription="@string/texto_eventos_2"
+        app:srcCompat="@drawable/mergulho" />
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue"
+        android:text="@string/texto_turismo_3" />
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:contentDescription="@string/texto_eventos_3"
+        app:srcCompat="@drawable/praia" />
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue"
+        android:text="@string/texto_turismo_4" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:contentDescription="@string/texto_eventos_3"
+
+        app:srcCompat="@drawable/turismo_escalada" />
+
+
 
 
 

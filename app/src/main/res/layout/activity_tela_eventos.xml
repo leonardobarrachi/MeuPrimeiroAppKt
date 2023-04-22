@@ -44,7 +44,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:contentDescription="@string/texto_eventos_1"
+            android:contentDescription="@string/texto_edital_1"
             app:srcCompat="@drawable/artesanatoeventos" />
 
         <TextView
@@ -86,13 +86,6 @@
             android:layout_marginRight="5dp"
             android:contentDescription="@string/texto_eventos_3"
             app:srcCompat="@drawable/showeventos" />
-
-
-
-
-
-
-
 
 
     </LinearLayout>
