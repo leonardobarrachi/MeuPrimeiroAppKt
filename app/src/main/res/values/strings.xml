@@ -71,5 +71,13 @@
     <string name="texto_turismo_2">Boca Chica</string>
     <string name="texto_turismo_3">Praia Limpa</string>
     <string name="texto_turismo_4">Escalada Solar</string>
+    <string name="botao_orcamento_1">Receitas</string>
+    <string name="botao_orcamento_2">Despesas</string>
+    <string name="botao_orcamento_3">Licitações</string>
+    <string name="botao_orcamento_4">Contratos</string>
+    <string name="botao_orcamento_5">Convênios</string>
+    <string name="botao_orcamento_6">Relatórios</string>
+    <string name="botao_orcamento_7">Patrimônios</string>
+    <string name="imagem_bandeira_municipio">Bandeira do municipio cor azul com cruz verde com contornos amarelos </string>
 
 </resources>
