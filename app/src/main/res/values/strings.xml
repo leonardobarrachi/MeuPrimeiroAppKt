@@ -79,5 +79,15 @@
     <string name="botao_orcamento_6">Relatórios</string>
     <string name="botao_orcamento_7">Patrimônios</string>
     <string name="imagem_bandeira_municipio">Bandeira do municipio cor azul com cruz verde com contornos amarelos </string>
+    <string name="imagem_telefone">telefone</string>
+    <string name="imagem_email">ícone de email</string>
+    <string name="texto_centrosocial_telefone">Centro Social: (18) 3698 4574</string>
+    <string name="texto_centrosocial_email">centrosocial@gmail.com</string>
+    <string name="texto_gabinete_prefeito_telefone">Gabinete: (18) 3701 3625</string>
+    <string name="texto_gabinete_prefeito_email">gabinetemunicipal@gmail.com.br</string>
+    <string name="texto_departamento_obras_telefone">Departamento de obras: (18) 3701 2231</string>
+    <string name="texto_departamento_obras_email">departamentodeobras@gmail.com</string>
+    <string name="texto_balcaodeemprego_telefone">Balacão de emprego: (18) 3501 4178</string>
+    <string name="texto_balcaodeemprego_email">balcaodeemprego@gmail.com</string>
 
 </resources>

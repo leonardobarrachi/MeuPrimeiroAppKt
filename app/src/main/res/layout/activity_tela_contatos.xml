@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.core.widget.NestedScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -15,16 +16,221 @@
         android:backgroundTint="@color/light_gray"
         tools:context=".view.contatos.TelaContatos">
 
-    <TextView
-        android:id="@+id/editais"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/titulo_tela_contatos"
-        android:layout_marginTop="18dp"
-        android:textSize="32sp"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/contatos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="@string/titulo_tela_contatos"
+            android:textColor="@color/black"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@string/imagem_telefone"
+            android:background="@color/design_default_color_background"
+            app:srcCompat="@android:drawable/sym_action_call" />
+
+        <TextView
+            android:id="@+id/centro_social1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_centrosocial_telefone"
+            android:contentDescription="@string/texto_centrosocial_telefone"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
 
-</LinearLayout>
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/imagem_email"
+            android:background="@android:color/holo_green_light"
+            app:srcCompat="@android:drawable/ic_dialog_email" />
+
+        <TextView
+            android:id="@+id/centro_social2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_centrosocial_email"
+            android:contentDescription="@string/texto_centrosocial_email"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@string/imagem_telefone"
+            android:background="@color/design_default_color_background"
+            app:srcCompat="@android:drawable/sym_action_call" />
+
+        <TextView
+            android:id="@+id/centro_social13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_gabinete_prefeito_telefone"
+            android:contentDescription="@string/texto_gabinete_prefeito_telefone"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/imagem_email"
+            android:background="@android:color/holo_green_light"
+            app:srcCompat="@android:drawable/ic_dialog_email" />
+
+        <TextView
+            android:id="@+id/centro_social3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_gabinete_prefeito_email"
+            android:contentDescription="@string/texto_centrosocial_email"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@string/imagem_telefone"
+            android:background="@color/design_default_color_background"
+            app:srcCompat="@android:drawable/sym_action_call" />
+
+        <TextView
+            android:id="@+id/centro_social4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_departamento_obras_telefone"
+            android:contentDescription="@string/texto_departamento_obras_telefone"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/imagem_email"
+            android:background="@android:color/holo_green_light"
+            app:srcCompat="@android:drawable/ic_dialog_email" />
+
+        <TextView
+            android:id="@+id/centro_social5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_departamento_obras_email"
+            android:contentDescription="@string/texto_centrosocial_email"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@string/imagem_telefone"
+            android:background="@color/design_default_color_background"
+            app:srcCompat="@android:drawable/sym_action_call" />
+
+        <TextView
+            android:id="@+id/centro_social7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_balcaodeemprego_telefone"
+            android:contentDescription="@string/texto_balcaodeemprego_telefone"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/imagem_email"
+            android:background="@android:color/holo_green_light"
+            app:srcCompat="@android:drawable/ic_dialog_email" />
+
+        <TextView
+            android:id="@+id/centro_social6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto_balcaodeemprego_email"
+            android:contentDescription="@string/texto_balcaodeemprego_email"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="10dp"
+            android:gravity="start"
+            android:textColor="@color/blue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+
+
+
+
+
+
+    </LinearLayout>
     </androidx.core.widget.NestedScrollView>
